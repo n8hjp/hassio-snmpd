@@ -11,12 +11,14 @@
     "community": "public",
     "location": "",
     "name": "",
+    "contact": "",
     "email": ""
   },
   "schema": {
     "community": "str",
     "location": "str",
     "name": "str",
+    "contact": "",
     "email": "str"
   },
   "ports": {
